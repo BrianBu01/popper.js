@@ -1,5 +1,4 @@
 import getBoundaries from '../../src/utils/getBoundaries';
-import isIE from '../../src/utils/isIE';
 
 describe('utils/getBoundaries', () => {
   let node;
